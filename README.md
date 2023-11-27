@@ -110,33 +110,36 @@ os.system("cls")
 <figcaption><b></b></figcaption></figure>
 </div>
 
-#### Entonces sí el jugador gana la ronda, la computadora pierde una vida y sí la computadora gana la ronda el jugador pierde una vida. Pierde el que primero se quede sin vidas.
+#### 🎮 Entonces sí el jugador gana la ronda, la computadora pierde una vida y sí la computadora gana la ronda el jugador pierde una vida. Pierde el que primero se quede sin vidas. 🎮
 
 
-#### Cuando la computadora se queda sin vidas:
+#### 🏆 Cuando la computadora se queda sin vidas: 🏆
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in9.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
-#### Cuando el jugador se queda sin vidas:
+#### 😔 Cuando el jugador se queda sin vidas: 😔
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in11.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
-#### Demostraciones del juego: 
+### 🎮 Otras rondas: 🎮
 
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in8.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+#### 🥵 Modo dificil 🥵: 
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in10.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
-#### Sí escoge el modo de dos jugadores, los dos jugadores comenzarán con 3 vidas y podrán escribir su opción
+#### 👨‍💻👨‍💻 Sí escoge el modo de dos jugadores, los dos jugadores comenzarán con 3 vidas y podrán escribir su opción. 👨‍💻👨‍💻
 
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in12.png" alt="" width="700" height="auto"/></br>
@@ -147,7 +150,9 @@ os.system("cls")
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in13.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-14
+
+#### Cuando el jugador 1 gana:
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in14.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
