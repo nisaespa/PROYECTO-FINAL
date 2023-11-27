@@ -18,23 +18,55 @@ import os # Para limpiar la consola
 import numpy as np # Probando con numpy, para la sopa de letras
 ```
 ### 📕 Random: Para los datos que necesitemos aleatorios. 📕
+```python
+import random
+# Ejemplo de uso, genera un número aleatorio entre un intervalo
+numero_aleatorio = random.randint(1, 10)
+print("Número aleatorio:", numero_aleatorio)
+```
 ### 📗 Colorama: Para añadir el color de la letra, el color del fondo de la letra y el estilo. 📗
 ```python
 # Ejemplo de uso, color de letra amarillo, color de fondo negro y el estilo en este caso hará que se vea un poco más brillante.
-print(Fore.YELLOW + Back.BLACK + Style.BRIGHT + "HOLA")
+from colorama import init, Back, Fore, Style
+print(Fore.YELLOW + Back.BLACK + Style.BRIGHT + "Letra amarilla, fondo negro")
 ```
-### 📘 Time: Para controlar el tiempo 
+### 📘 Time: Para controlar el tiempo entre cada acción. 📘
+```python
+# Ejemplo de uso, que imprima 'tiempo' y a los 5 segundos imprima'Hola mundo'.
+import time
+print("tiempo")
+time.sleep(5)
+print('Hola mundo')
+```
+### 📒 Os: Para limpiar la consola. 📒
+```python
+# Ejemplo de uso, imprime en consola "Limpiar consola" y luego limpia consola.
+import os
+print("Limpiar consola")
+os.system("cls")
+```
+
+## 🎨 Generador de arte ASCCI 🎨
+#### Además, se usó un generador de arte ASCCI para para hacer el hangman en el juego del ahorcado, decoraciones y la letra más grande, por ejemplo, en la intro del juego cuando se muestra el nombre del grupo, cuando se muestra el menú y cuando el jugador gana o pierde.
+
+[Generador arte ASCCI](https://patorjk.com/software/taag/)
+
 #### 🎮 El juego inicia mostrando el nombre del grupo "INDUSPLAYTHON", y luego aparece el menú con las opciones de juego, o la opción de salirse. 🎮
-#### 🎮 El jugador podrá elegir entre las 3 opciones de juego, o salirse. 🎮
 
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in1.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+#### 🎮 El jugador podrá elegir entre las 3 opciones de juego, o salirse. 🎮
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in2.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+#### Sí elige el juego de piedra, papel y tijera, entonces tendrá la opción de elegir el modo para un jugador (jugador vs computador) 
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in3.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
