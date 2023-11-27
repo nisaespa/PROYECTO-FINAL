@@ -51,6 +51,8 @@ os.system("cls")
 
 [Generador arte ASCCI](https://patorjk.com/software/taag/)
 
+## 🎮 JUEGO 🎮
+
 #### 🎮 El juego inicia mostrando el nombre del grupo "INDUSPLAYTHON", y luego aparece el menú con las opciones de juego, o la opción de salirse. 🎮
 
 <div align='center'>
@@ -65,52 +67,82 @@ os.system("cls")
 <figcaption><b></b></figcaption></figure>
 </div>
 
-#### Sí elige el juego de piedra, papel y tijera, entonces tendrá la opción de elegir el modo para un jugador (jugador vs computador) 
+#### 🖐️✌️👊 En el juego de piedra, papel y tijera se enfrentan dos oponentes, cada uno con una cantidad de vidas. Siguiendo las reglas de que Piedra aplasta a Tijera, Papel envuelve Piedra y Tijera corta Papel. 🖐️✌️👊
+
+<div align='center'>
+<figure> <img src="https://static.vecteezy.com/system/resources/previews/000/693/099/non_2x/rock-paper-scissors-rules-vector-illustration.jpg" alt="" width="350" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+#### 💻👨‍💻Sí elige el juego de piedra, papel y tijera, entonces tendrá la opción de elegir el modo para un jugador (jugador vs computador) o dos jugadores.👨‍💻👨‍💻
 
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in3.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+#### 💻 Sí elige el modo para un jugador, tendrá que elegir también que dificultad quiere, esto definirá las vidas que tendrá. 👨‍💻
+#### ❤️❤️❤️ Siendo fácil iniciar con 3 vidas, normal iniciar con 2 vidas y dificil iniciar con 1 vida. ❤️❤️❤️
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in4.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+#### 🎮 En este caso el jugador escogió el modo fácil, entonces el jugador y la computadora empiezan con 3 vidas. Además tenemos un contador de las rondas. 🎮
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in5.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+#### 🎮 El jugador escoge Piedra 👊 y la computadora escoge Tijera ✌️, Piedra aplasta a Tijera, entonces el jugador gana la ronda y la computadora pierde una vida. 🎮
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in6.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+#### 🤝 En caso de que lleguen a sacar la misma opción es empate y nadie pierde vidas. 🤝
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in7.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+#### Entonces sí el jugador gana la ronda, la computadora pierde una vida y sí la computadora gana la ronda el jugador pierde una vida. Pierde el que primero se quede sin vidas.
+
+
+#### Cuando la computadora se queda sin vidas:
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in9.png" alt="" width="700" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+#### Cuando el jugador se queda sin vidas:
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in11.png" alt="" width="700" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+#### Demostraciones del juego: 
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in8.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 <div align='center'>
-<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in9.png" alt="" width="700" height="auto"/></br>
-<figcaption><b></b></figcaption></figure>
-</div>
-10
-<div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in10.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-11
-<div align='center'>
-<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in11.png" alt="" width="700" height="auto"/></br>
-<figcaption><b></b></figcaption></figure>
-</div>
-12
+
+#### Sí escoge el modo de dos jugadores, los dos jugadores comenzarán con 3 vidas y podrán escribir su opción
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in12.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-13
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in13.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
