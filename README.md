@@ -81,6 +81,7 @@ os.system("cls")
 <figcaption><b></b></figcaption></figure>
 </div>
 
+### 1️⃣ Jugador:
 #### 💻 Sí elige el modo para un jugador, tendrá que elegir también que dificultad quiere, esto definirá las vidas que tendrá. 👨‍💻
 #### ❤️❤️❤️ Siendo fácil iniciar con 3 vidas, normal iniciar con 2 vidas y dificil iniciar con 1 vida. ❤️❤️❤️
 
@@ -139,6 +140,7 @@ os.system("cls")
 <figcaption><b></b></figcaption></figure>
 </div>
 
+### 2️⃣ Jugadores:
 #### 👨‍💻👨‍💻 Sí escoge el modo de dos jugadores, los dos jugadores comenzarán con 3 vidas y podrán escribir su opción. 👨‍💻👨‍💻
 
 <div align='center'>
@@ -151,84 +153,105 @@ os.system("cls")
 <figcaption><b></b></figcaption></figure>
 </div>
 
-#### Cuando el jugador 1 gana:
+#### 1️⃣ Cuando el jugador 1 gana: 1️⃣
 
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in14.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-15
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in15.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-16
+
+#### 2️⃣ Cuando el jugador 2 gana: 2️⃣
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in16.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-17
+
+#### 🔚 Se termina el juego entonces cuando el primer oponente se quede sin vidas, sea en el modo de 1️⃣ Jugador o 2️⃣ Jugadores. 🔚
+#### 📋 Retorna al menu: 📋
+#### 💀 En el juego de ahorcado, el jugador tiene la posibilidad de escoger el idioma, puede ser español, inglés o francés. 🗣️
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in17.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-18
+
+#### 😊 Luego de haber elegido el idioma, tiene que elegir la dificultad que desee entre fácil, normal y dificil. Siendo fácil = 7 intentos, normal = 6 intentos y dificil = 5 intentos. 😊
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in18.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-19
+
+#### 🥵 En este caso el jugador escogió el modo fácil. 🥵
+#### 👤 Al seleccionar la dificultad, aparecerá la palabra oculta, cada letra de la palabra siendo igual a un guión bajo '_'. 👤
+#### ✏️ Ahora el jugador tiene que adivinar la palabra ingresando letras. ✏️
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in19.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-20
+
+#### ✏️ Escribió la letra 'a' y 'e' y las letras ocuparon el lugardel guión bajo '_'. ✏️
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in20.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-21
+
+#### 🥺 Cuando falla, se descuenta un intento y se comienza haciendo el hangman. 🥺
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in21.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-22
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in22.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-23
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in23.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-24
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in24.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-25
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in25.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-26
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in26.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-27
+
+#### 💀 El jugador pierde cuando el hangman está ahorcado o completo, es decir, cuando no tiene más intentos. 💀
+#### 👤 Luego se muestra la palabra secreta. 👤
+#### 🏆 Y como en el juego de piedra, papel o tijera (un jugador), también se muestra grande 'PERDISTE' cuando no se encuentra la palabra o 'GANASTE' cuando el jugador encuentra la palabra. Y se termina el juego. 😔
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in27.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
-28
+
+#### 📋 Retorna al menu: 📋
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in2.png" alt="" width="700" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+#### En este caso la opción de sopa de letras y la opción de salir, se saldrán del programa. Y se mostrará 'GRACIAS POR JUGAR'
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in28.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
-#### Estableciendo un condicional para verificar que la dimensión de la sopa de letras sea un número N tal que 10<= N <= 30 se empezará a desarrollar el código, que empezará almacenando palabras ingresadas por el usuario en una lista para luego acceder a estas.
+### 🍲 Sopa de letras 🍲
+#### 🍲 Estableciendo un condicional para verificar que la dimensión de la sopa de letras sea un número N tal que 10<= N <= 30 se empezará a desarrollar el código, que empezará almacenando palabras ingresadas por el usuario en una lista para luego acceder a estas. 🍲
 
 ```python
 # Abecedario y dimensión de la matriz ingresados por el usuario
@@ -245,7 +268,7 @@ if 10<= N <= 30:
         palabras.append(palabra)
 ```
 
-#### Para hacer más específico cada paso, utilicé funciones para cada cosa que necesitaba que hiciera el programa, partiendo por generar la función que simula un puntero que decidirá aleatoriamente la posición donde será puesta cada palabra ingresada por el usuario, asimismo este puntero decide la dirección en la que estará la palabra, definiendo los avances en x ^ y como una pareja de escalares o un vector en R2.
+#### 🍲 Para hacer más específico cada paso, utilicé funciones para cada cosa que necesitaba que hiciera el programa, partiendo por generar la función que simula un puntero que decidirá aleatoriamente la posición donde será puesta cada palabra ingresada por el usuario, asimismo este puntero decide la dirección en la que estará la palabra, definiendo los avances en x ^ y como una pareja de escalares o un vector en R2. 🍲
 
 ```python
 # Función pa generar el cursor aleatorio con posición y dirección
@@ -262,7 +285,7 @@ if 10<= N <= 30:
         return fila, columna, avanX, avanY
 ```
 
-#### La función posterior a esta, es una verificación sobre el espacio suficiente para cada palabra, si bien no se usa len() para medir la longitud de la palabra, se verificará letra por letra si esta cabe en el siguiente, actualizando cada coordenada en x ^ y por cada letra, utilizando valores booleanos decidirá si es posible poner la palabra o no, decidiendo esto letra por letra. (Cabe la posibilidad de que se omitan palabras).
+#### 🍲 La función posterior a esta, es una verificación sobre el espacio suficiente para cada palabra, si bien no se usa len() para medir la longitud de la palabra, se verificará letra por letra si esta cabe en el siguiente, actualizando cada coordenada en x ^ y por cada letra, utilizando valores booleanos decidirá si es posible poner la palabra o no, decidiendo esto letra por letra. (Cabe la posibilidad de que se omitan palabras). 🍲
 
 
 ```python
@@ -281,7 +304,7 @@ if 10<= N <= 30:
 ```
 
   
-#### La función posterior (colocar_palabra) tiene un funcionamiento similar a la anterior, ya que evalúa si es posible colocar cada letra y en dado caso la posición de la matriz: ajiaco, será la letra en cuestión.
+#### 🍲 La función posterior (colocar_palabra) tiene un funcionamiento similar a la anterior, ya que evalúa si es posible colocar cada letra y en dado caso la posición de la matriz: ajiaco, será la letra en cuestión. 🍲
 
 ```python
 # Función pa colocar una palabra en la matriz a partir de una posición y dirección dadas
@@ -304,7 +327,7 @@ if 10<= N <= 30:
         return ajiaco
 ```
   
-#### Para generar la matriz: ajiaco, se usarán listas que luego se llenarán de espacio de vacios,  y posterior a esto se llamarán las funciones anteriores para poner en la matriz las palabras y dejar espacios vacíos donde no haya palabras.  En la función: generar_matriz, se pretende hacer esto de una manera agradable , por lo que se imprimirán los índices de fila y de columna, asegurando también que por cada fila haya una columna . Posterior a esto se llenará cada espacio vacío restante con letras aleatorias.
+#### 🍲 Para generar la matriz: ajiaco, se usarán listas que luego se llenarán de espacio de vacios,  y posterior a esto se llamarán las funciones anteriores para poner en la matriz las palabras y dejar espacios vacíos donde no haya palabras.  En la función: generar_matriz, se pretende hacer esto de una manera agradable , por lo que se imprimirán los índices de fila y de columna, asegurando también que por cada fila haya una columna . Posterior a esto se llenará cada espacio vacío restante con letras aleatorias. 🍲
 
 ```python
 # Función para generar la matriz final con palabras colocadas aleatoriamente
@@ -336,7 +359,7 @@ if 10<= N <= 30:
                     ajiaco[x][y] = np.random.choice(abecedario)
 ```
 
-#### Para mostrar todo lo anterior en la consola, se accederán a las funciones establecidas previamente.
+#### 🍲 Para mostrar todo lo anterior en la consola, se accederán a las funciones establecidas previamente. 🍲
 
 ```python
 # Generar la matriz final y mostrarla
@@ -344,7 +367,7 @@ matriz_resultante = generar_matriz_palabras(palabras, N)
 rellenar_sopa(matriz_resultante)
 imprimir_matriz(matriz_resultante)
 ```
-#### Con fin de terminar el código, se establecen las funciones para encontrar las  palabras y la lógica que estas tendrán, donde se evaluará las coordenadas iniciales y finales de cada palabra, y en cada caso se usará un método de extracción de estas de la matriz ya que el código presentó constantes problemas mientras se usaba el mismo método de extracción para los tres casos.
+####  🍲 Con fin de terminar el código, se establecen las funciones para encontrar las  palabras y la lógica que estas tendrán, donde se evaluará las coordenadas iniciales y finales de cada palabra, y en cada caso se usará un método de extracción de estas de la matriz ya que el código presentó constantes problemas mientras se usaba el mismo método de extracción para los tres casos. 🍲
 
 ```python
 # Hacer que el usuario encuentre palabras hasta que todas sean encontradas
@@ -366,7 +389,7 @@ imprimir_matriz(matriz_resultante)
         return palabra_encontrada
 ```
 
-#### Finalizando el código, se utiliza un ciclo while para iterar mientras hayan palabras en la lista: [palabras_restantes], donde serán solicitadas al usuario, las coordenadas iniciales y finales de la palabra, convirtiendo estas a enteros y evaluando si estas coordenadas si corresponden a una palabra. En este punto el código presenta un problema que no encontramos cómo solucionar y es que al evaluar las coordenadas, en caso de que correspondan a una palabra, imprime: Encontraste la palabra, sin embargo también imprime: No es una palabra válida, inténtelo de nuevo, como si las coordenadas no coincidieran con una palabra en la matriz, por lo que fué editada la función: encontrar_palabras hasta que esto se solucionó, sin embargo fue una solución parcial, ya que funcionó en los primeros dos intentos de usar el código y se volvió al mismo problema
+#### 🍲 Finalizando el código, se utiliza un ciclo while para iterar mientras hayan palabras en la lista: [palabras_restantes], donde serán solicitadas al usuario, las coordenadas iniciales y finales de la palabra, convirtiendo estas a enteros y evaluando si estas coordenadas si corresponden a una palabra. En este punto el código presenta un problema que no encontramos cómo solucionar y es que al evaluar las coordenadas, en caso de que correspondan a una palabra, imprime: Encontraste la palabra, sin embargo también imprime: No es una palabra válida, inténtelo de nuevo, como si las coordenadas no coincidieran con una palabra en la matriz, por lo que fué editada la función: encontrar_palabras hasta que esto se solucionó, sin embargo fue una solución parcial, ya que funcionó en los primeros dos intentos de usar el código y se volvió al mismo problema. 🍲
 
 ```python
 while palabras_restantes:
@@ -403,7 +426,7 @@ else:
     print("Fue advertido de que el numero debía estar entre 10 y 30, ahora vuelva a correr el programa")
 ```
 
-+ Resultado
+### 🍲 Resultado 🍲
 
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/resultado1.png" alt="" width="1000" height="auto"/></br>
