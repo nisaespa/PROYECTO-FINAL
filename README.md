@@ -6,8 +6,27 @@
 <figcaption><b></b></figcaption></figure>
 </div>
 
-## Nuestro proyecto final trata de un salón o menú de 3 juegos, los cuales son: Ahorcado, Piedra, papel o tijera y Sopa de letras. 
-## El juego inicia mostrando el nombre del grupo "INDUSPLAYTHON", y luego aparece el menú con las opciones de juego, o la opción de salirse.
+## 🕹️SALÓN DE JUEGOS INDUSPLAYTHON🕹️
+####  🎮 Nuestro proyecto final trata de un salón o menú de 3 juegos, los cuales son: Ahorcado, Piedra, papel o tijera y Sopa de letras. 🎮 
+####  🎮 El jugador podrá seguir las instrucciones e interactuar con la consola para jugar. 🎮
+## 📚 Librerias usadas: 📚
+```python
+import random # Importar random, para valores aleatorios
+from colorama import init, Back, Fore, Style # Importar de colorama init, back, fore y style para los colores de letra, de fondo y el estilo.
+import time # Para controlar los tiempos entre las acciones
+import os # Para limpiar la consola
+import numpy as np # Probando con numpy, para la sopa de letras
+```
+### 📕 Random: Para los datos que necesitemos aleatorios. 📕
+### 📗 Colorama: Para añadir el color de la letra, el color del fondo de la letra y el estilo. 📗
+```python
+# Ejemplo de uso, color de letra amarillo, color de fondo negro y el estilo en este caso hará que se vea un poco más brillante.
+print(Fore.YELLOW + Back.BLACK + Style.BRIGHT + "HOLA")
+```
+### 📘 Time: Para controlar el tiempo 
+#### 🎮 El juego inicia mostrando el nombre del grupo "INDUSPLAYTHON", y luego aparece el menú con las opciones de juego, o la opción de salirse. 🎮
+#### 🎮 El jugador podrá elegir entre las 3 opciones de juego, o salirse. 🎮
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in1.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
@@ -314,3 +333,15 @@ while palabras_restantes:
 else:
     print("Fue advertido de que el numero debía estar entre 10 y 30, ahora vuelva a correr el programa")
 ```
+
++ Resultado
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/resultado1.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/resultado2.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
