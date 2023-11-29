@@ -156,6 +156,11 @@ os.system("cls")
 #### 💻👨‍💻Sí elige el juego de piedra, papel y tijera, entonces tendrá la opción de elegir el modo para un jugador (jugador vs computador) o dos jugadores.👨‍💻👨‍💻
 
 <div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/B1.png" alt="" width="700" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+<div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in3.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
@@ -311,8 +316,14 @@ os.system("cls")
 #### 💀 El jugador pierde cuando el hangman está ahorcado o completo, es decir, cuando no tiene más intentos. 💀
 #### 👤 Luego se muestra la palabra secreta. 👤
 #### 🏆 Y como en el juego de piedra, papel o tijera (un jugador), también se muestra grande 'PERDISTE' cuando no se encuentra la palabra o 'GANASTE' cuando el jugador encuentra la palabra. Y se termina el juego. 😔
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in27.png" alt="" width="700" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/B2.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
