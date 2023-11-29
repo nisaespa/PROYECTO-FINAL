@@ -1,12 +1,12 @@
 # 🔥 INDUSPLAYTHON - PROYECTO FINAL 🔥
 *Nicolas Estupiñan* - *Santiago Avendaño*
-## 👽 Logo IndusPlaython 👽
+# 👽 Logo IndusPlaython 👽
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/Snake%20(2).png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
-## 🕹️SALÓN DE JUEGOS INDUSPLAYTHON🕹️
+# 🕹️SALÓN DE JUEGOS INDUSPLAYTHON🕹️
 ####  🎮 Nuestro proyecto final trata de un salón o menú de 3 juegos, los cuales son: Ahorcado, Piedra, papel o tijera y Sopa de letras. 🎮 
 ####  🎮 El jugador podrá seguir las instrucciones e interactuar con la consola para jugar. 🎮
 
@@ -124,7 +124,17 @@ import os
 print("Limpiar consola")
 os.system("cls")
 ```
-
+### 📗 Numpy: Para la sopa de letras. 📗
+```python
+# Ejemplo de uso, para seleccionar una 
+import numpy as np
+# Lista de letras
+vocales = ['a', 'e', 'i', 'o', 'u']
+# Usar np.random.choice para seleccionar vocal aleatoria
+letra_aleatoria = np.random.choice(vocales)
+# Imprimir la letra seleccionada aleatoriamente
+print("Letra seleccionada aleatoriamente:", letra_aleatoria)
+```
 ## 🎨 Generador de arte ASCCI 🎨
 #### Además, se usó un generador de arte ASCCI para para hacer el hangman en el juego del ahorcado, decoraciones y la letra más grande, por ejemplo, en la intro del juego cuando se muestra el nombre del grupo, cuando se muestra el menú y cuando el jugador gana o pierde.
 
