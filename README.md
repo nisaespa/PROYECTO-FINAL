@@ -2,7 +2,7 @@
 *Nicolas Estupiñan* - *Santiago Avendaño*
 ## 👽 Logo IndusPlaython 👽
 <div align='center'>
-<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/LOGO%20indusplaython.jpg" alt="" width="700" height="auto"/></br>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/Snake%20(2).png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
@@ -508,11 +508,22 @@ else:
 ### 🍲 Resultado 🍲
 
 <div align='center'>
-<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/resultado1.png" alt="" width="1000" height="auto"/></br>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/B3.png" alt="" width="1000" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
 <div align='center'>
-<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/resultado2.png" alt="" width="1000" height="auto"/></br>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/sopas1.png" alt="" width="1000" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/sopas2.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/B4.png" alt="" width="1000" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
