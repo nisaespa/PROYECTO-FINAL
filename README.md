@@ -257,6 +257,12 @@ os.system("cls")
 #### 🔚 Se termina el juego entonces cuando el primer oponente se quede sin vidas, sea en el modo de 1️⃣ Jugador o 2️⃣ Jugadores. 🔚
 #### 📋 Retorna al menu: 📋
 #### 💀 En el juego de ahorcado, el jugador tiene la posibilidad de escoger el idioma, puede ser español, inglés o francés. 🗣️
+
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/B2.png" alt="" width="700" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
+
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in17.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
@@ -319,11 +325,6 @@ os.system("cls")
 
 <div align='center'>
 <figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in27.png" alt="" width="700" height="auto"/></br>
-<figcaption><b></b></figcaption></figure>
-</div>
-
-<div align='center'>
-<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/B2.png" alt="" width="700" height="auto"/></br>
 <figcaption><b></b></figcaption></figure>
 </div>
 
