@@ -345,12 +345,6 @@ print("Letra seleccionada aleatoriamente:", letra_aleatoria)
 <figcaption><b></b></figcaption></figure>
 </div>
 
-#### En este caso la opción de sopa de letras y la opción de salir, se saldrán del programa. Y se mostrará 'GRACIAS POR JUGAR'
-<div align='center'>
-<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in28.png" alt="" width="700" height="auto"/></br>
-<figcaption><b></b></figcaption></figure>
-</div>
-
 ### 🍲 Sopa de letras 🍲
 #### 🍲 Estableciendo un condicional para verificar que la dimensión de la sopa de letras sea un número N tal que 10<= N <= 30 se empezará a desarrollar el código, que empezará almacenando palabras ingresadas por el usuario en una lista para luego acceder a estas. 🍲
 
@@ -549,3 +543,8 @@ else:
 <figcaption><b></b></figcaption></figure>
 </div>
 
+#### ☀️ La opción de salir, se saldrá del programa. Y se mostrará 'GRACIAS POR JUGAR' ☀️
+<div align='center'>
+<figure> <img src="https://raw.githubusercontent.com/nisaespa/PROYECTO-FINAL/main/imagenes%20proyecto%20final/in28.png" alt="" width="1100" height="auto"/></br>
+<figcaption><b></b></figcaption></figure>
+</div>
